@@ -1,0 +1,6 @@
+C:\Users\huawei\OneDrive\Masaüstü\nypFinall\PolzMobilyaSatısStokTakip\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\huawei\OneDrive\Masaüstü\nypFinall\PolzMobilyaSatısStokTakip\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\huawei\OneDrive\Masaüstü\nypFinall\PolzMobilyaSatısStokTakip\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\huawei\OneDrive\Masaüstü\nypFinall\PolzMobilyaSatısStokTakip\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\huawei\OneDrive\Masaüstü\nypFinall\PolzMobilyaSatısStokTakip\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\huawei\OneDrive\Masaüstü\nypFinall\PolzMobilyaSatısStokTakip\EntityLayer\obj\Debug\EntityLayer.pdb
