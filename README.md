@@ -109,6 +109,12 @@ akademik bir çalışma (final projesi) olarak geliştirilmiştir.
 
 ---
 
+## 🎬 Tanıtım Videosu
+
+[![Proje Tanıtım Videosu](https://img.youtube.com/vi/AbC123xYz9/0.jpg)](https://www.youtube.com/watch?v=AbC123xYz9)
+
+---
+
 ## Geliştirici
 **Azad Çam**  
 Uludağ Üniversitesi – Yönetim Bilişim Sistemleri
